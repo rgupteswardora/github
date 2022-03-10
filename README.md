@@ -47,8 +47,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rgupteswardora/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rgupteswardora&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 ![snake gif](https://github.com/rgupteswardora/rgupteswardora/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
