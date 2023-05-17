@@ -32,7 +32,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="R Gupteswars Dora's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rgupteswardora&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<
 ## 📊 My Github Stats
 
   <br/>
@@ -54,4 +54,4 @@
 <a href = "https://www.linkedin.com/in/rgupteswardora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/rgupteswardora"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
 
-</p>
+</p>>
